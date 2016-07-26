@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  BlueVC.swift
 //  StoryboardReference
 //
 //  Created by Sharon's Mac on 7/21/16.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class BlueVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
